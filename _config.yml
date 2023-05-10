@@ -1,0 +1,16 @@
+# _config.yml
+# opções básicas
+title: polythropos
+author: Pedro Alves de Lima
+email: plima@me.com
+description: só mais uma página estática no GitHub
+twitter_username: ipedrolima
+github_username: pelima
+
+# configurações da build
+markdown: kramdown
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
