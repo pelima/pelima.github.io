@@ -1,5 +1,6 @@
 # _config.yml
 # opções básicas
+theme: jekyll-theme-minimal
 title: polythropos
 author: Pedro Alves de Lima
 email: plima@me.com
@@ -9,7 +10,7 @@ github_username: pelima
 
 # configurações da build
 markdown: kramdown
-theme: jekyll-theme-minimal
+
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
